@@ -70,4 +70,8 @@ start [ic7]
 - https://cdn.discordapp.com/attachments/458964176870703114/1136039727577972766/image.png
 - https://cdn.discordapp.com/attachments/458964176870703114/1136039675576979496/image.png
 
+
+# بامكانك تغير موقع العمل عن طريق config.lua
+
+
 تم تطوير السكربت بواسطة : ic7
