@@ -54,3 +54,10 @@ NewPed(`s_m_y_dockwork_01`, "electrician", {
 ```lua
 start [ic7]
 ```
+
+
+المتطلبات :
+- qb-core
+- qb-k7-target
+- qb-pedzones
+- qb-cityhall
