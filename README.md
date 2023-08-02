@@ -47,7 +47,7 @@ NewPed(`s_m_y_dockwork_01`, "electrician", {
 # 3 - ضيف هذا في سكربت (qb-cityhall/config.lua)
 
 ```lua
-["electricity"] = {["label"] = "Electricity", ["isManaged"] = false},
+["electricity"] = {["label"] = "electricity", ["isManaged"] = false},
 ```
 
 # اكتب هذا في server.cfg
