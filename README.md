@@ -59,7 +59,7 @@ start [ic7]
 المتطلبات :
 - qb-core
 - qb-k7-target
-- qb-pedzones
+- qb-pedzones (https://cdn.discordapp.com/attachments/1136108543167189103/1136109482682880071/qb-pedzones.rar)
 - qb-cityhall
 
 
