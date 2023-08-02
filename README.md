@@ -57,10 +57,10 @@ start [ic7]
 
 
 المتطلبات :
-# - qb-core ( https://github.com/qbcore-framework/qb-core )
-# - qb-target ( https://github.com/qbcore-framework/qb-target )
-# - qb-pedzones ( https://cdn.discordapp.com/attachments/1136108543167189103/1136109482682880071/qb-pedzones.rar )
-# - qb-cityhall ( https://github.com/qbcore-framework/qb-cityhall )
+ - qb-core ( https://github.com/qbcore-framework/qb-core )
+ - qb-target ( https://github.com/qbcore-framework/qb-target )
+ - qb-pedzones ( https://cdn.discordapp.com/attachments/1136108543167189103/1136109482682880071/qb-pedzones.rar )
+ - qb-cityhall ( https://github.com/qbcore-framework/qb-cityhall )
 
 
 صور السكربت:
