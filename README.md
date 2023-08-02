@@ -1,3 +1,13 @@
+# سكربت وضيفة الكهربائي بنضام العين
+
+صور للكربت:
+https://cdn.discordapp.com/attachments/458964176870703114/1136039675576979496/image.png
+https://cdn.discordapp.com/attachments/458964176870703114/1136039727577972766/image.png
+https://cdn.discordapp.com/attachments/458964176870703114/1136039834616610876/image.png
+https://cdn.discordapp.com/attachments/458964176870703114/1136039962677100634/image.png
+https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png
+
+
 تم تطوير السكربت بواسطة : ic7
 
 # :طريقة التركيب
