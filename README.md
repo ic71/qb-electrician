@@ -61,3 +61,6 @@ start [ic7]
 - qb-k7-target
 - qb-pedzones
 - qb-cityhall
+
+
+- https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png
