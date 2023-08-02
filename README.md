@@ -8,18 +8,18 @@
 
 # 1 -  ادخل هذا المسار (qb-core/shared/job.lua) و ضيف هذه الوضيفة
 ```lua
-   ['electricity'] = {
-		label = 'Electricity',
+     ['electrician'] = {
+		label = 'electrician',
 		defaultDuty = true,
 		offDutyPay = true,
 		grades = {
             ['0'] = {
-                name = 'Electricity',
+                name = 'electrician',
                 payment = 300
             },
             ['1'] = {
-                name = 'Electrical engineer',
-                payment = 900
+                name = 'electrician engineer',
+                payment = 600
             },
         },
 	},
