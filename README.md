@@ -15,7 +15,6 @@
 صور السكربت:
 
 ![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png)
-![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png)
 ![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039962677100634/image.png)
 ![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039834616610876/image.png)
 ![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039727577972766/image.png)
