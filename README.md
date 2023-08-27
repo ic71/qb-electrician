@@ -3,6 +3,30 @@
 # سكربت وضيفة الكهربائي بنضام العين
 
 
+
+
+المتطلبات :
+ - qb-core ( https://github.com/qbcore-framework/qb-core )
+ - qb-target ( https://github.com/qbcore-framework/qb-target )
+ - qb-pedzones ( https://github.com/ic71/qb-pedzones )
+ - qb-cityhall ( https://github.com/qbcore-framework/qb-cityhall )
+
+
+صور السكربت:
+
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png)
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png)
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039962677100634/image.png)
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039834616610876/image.png)
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039727577972766/image.png)
+![ic7](https://cdn.discordapp.com/attachments/458964176870703114/1136039675576979496/image.png)
+
+
+# بامكانك تغير موقع العمل عن طريق config.lua
+
+
+
+
 # :طريقة التركيب
 
 
@@ -54,24 +78,5 @@ NewPed(`s_m_y_dockwork_01`, "electrician", {
 ```lua
 start [ic7]
 ```
-
-
-المتطلبات :
- - qb-core ( https://github.com/qbcore-framework/qb-core )
- - qb-target ( https://github.com/qbcore-framework/qb-target )
- - qb-pedzones ( https://github.com/ic71/qb-pedzones )
- - qb-cityhall ( https://github.com/qbcore-framework/qb-cityhall )
-
-
-صور السكربت:
-- https://cdn.discordapp.com/attachments/458964176870703114/1136040136128340069/image.png
-- https://cdn.discordapp.com/attachments/458964176870703114/1136039962677100634/image.png
-- https://cdn.discordapp.com/attachments/458964176870703114/1136039834616610876/image.png
-- https://cdn.discordapp.com/attachments/458964176870703114/1136039727577972766/image.png
-- https://cdn.discordapp.com/attachments/458964176870703114/1136039675576979496/image.png
-
-
-# بامكانك تغير موقع العمل عن طريق config.lua
-
 
 تم تطوير السكربت بواسطة : ic7
