@@ -67,7 +67,7 @@ NewPed(`s_m_y_dockwork_01`, "electrician", {
 
 ```
 
-# 3 - ضيف هذا في سكربت (qb-cityhall/config.lua)
+# 3 - ادخل المسار  (qb-cityhall/config.lua) و ضيف هذا الكود
 
 ```lua
 ["electricity"] = {["label"] = "electricity", ["isManaged"] = false},
